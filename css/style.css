@@ -1,0 +1,50 @@
+header {
+    text-align: center;
+}
+body {
+    font-family: 'Montserrat', sans-serif !important;
+    background-color: #15161b !important;
+}
+.profile-pic {
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+p {
+    color: white;
+}
+ul {
+    color: white;
+}
+ol {
+    color: white;
+}
+h1{
+    font-size:30px;
+    color:darkred;
+}
+h2{
+    font-size: 26px;
+    color:brown;
+}
+h3{
+    color:lightseagreen;
+    font-size:20px;
+}
+
+.top-row {
+    margin-bottom: 20px;
+}
+
+.middle-row {
+    margin-bottom: 20px;
+}
+
+.profile-pic:hover {
+    width: 210px;
+    height: 210px;
+    margin: 0;
+}
+a:hover {
+    color: #93e7ff !important;
+}
